@@ -5,7 +5,8 @@ We tested out a new idea of a NDVI/NDWI loss function, which uses geoscience met
   
 ![result](/images/cloud_decloud.png)
 
-Here is our overall architecture:
+Here is our overall architecture:  
+  
 ![architecture](/images/System_Cloud_Removal_with_NDX_Loss.png)
 
 ## How to use this code?

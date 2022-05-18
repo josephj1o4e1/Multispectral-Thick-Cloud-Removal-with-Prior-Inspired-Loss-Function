@@ -10,3 +10,7 @@ Here is our overall architecture:
 ![architecture](/images/System_Cloud_Removal_with_NDX_Loss.png)
 
 ## How to use this code?
+Please use the shell script main provided "main_trainNDVI_NDWI_s2.sh".  
+Command could be like:  
+sh main_trainNDVI_NDWI_s2.sh 0 L1C_England_augmented 0 80 0.0001 8 NTIRE2018_Multiscale_NDVI_NDWI 512
+The argument L1C_England_augmented is the dataset pathname of your own dataset. 

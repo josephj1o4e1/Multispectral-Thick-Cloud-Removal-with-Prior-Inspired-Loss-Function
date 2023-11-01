@@ -6,9 +6,9 @@ We tested out a new idea of a NDVI/NDWI loss function, which uses geoscience met
 
 Before / After:  
 ![image](https://github.com/josephj1o4e1/Multispectral-Thick-Cloud-Removal-with-Prior-Inspired-Loss-Function/assets/13396370/aa969532-2a0d-43bb-9a45-6f1bc69b1bc1)
-  
-   
-![result](/images/cloud_decloud.png)
+    
+![image](https://github.com/josephj1o4e1/Multispectral-Thick-Cloud-Removal-with-Prior-Inspired-Loss-Function/assets/13396370/b9805187-c42e-4527-84fe-980688231fe3)
+
 
 Here is our overall architecture:  
   

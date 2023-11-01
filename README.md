@@ -4,11 +4,8 @@ These satellite images all are 16-bit depth, 4 channel RGB-NIR images, where the
 reflectance (TOAR).  
 We tested out a new idea of a NDVI/NDWI loss function, which uses geoscience metrics as a loss function that gives it a cross channel color stabilizaiton. This remains to be tested thoroughly. Here is an example of our result: 
 
-Before:  
+Before / After:  
 ![image](https://github.com/josephj1o4e1/Multispectral-Thick-Cloud-Removal-with-Prior-Inspired-Loss-Function/assets/13396370/aa969532-2a0d-43bb-9a45-6f1bc69b1bc1)
-  
-After:  
-![image](https://github.com/josephj1o4e1/Multispectral-Thick-Cloud-Removal-with-Prior-Inspired-Loss-Function/assets/13396370/b4d01996-d563-4fe7-9fa4-e5feaa4e617d)
   
    
 ![result](/images/cloud_decloud.png)
